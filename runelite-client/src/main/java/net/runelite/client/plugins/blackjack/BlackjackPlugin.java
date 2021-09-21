@@ -189,4 +189,4 @@ public class BlackjackPlugin extends Plugin
 				Text.removeTags(entry.getTarget(), true).equalsIgnoreCase(this.getTarget());
 		}
 	}
-}
+} 
